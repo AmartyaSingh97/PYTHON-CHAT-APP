@@ -1,2 +1,4 @@
 # PYTHON-CHAT-APP
-A python socket chat app made with linode for MLH-BUILD submission.
+A python socket chat app made with linode.
+Project for MLH-BUILD Submission
+
